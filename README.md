@@ -1,1 +1,1 @@
-# JVPLSpices.github.io
+# JVPL SPICES - SPICE UP YOUR DISH

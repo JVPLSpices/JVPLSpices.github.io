@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>JVPL Spices – Product Catalog</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #faf9f6;
+      color: #333;
+    }
+    header {
+      background: #1a237e;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    header img {
+      max-height: 140px;
+      display: block;
+      margin: 0 auto 10px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .slogan {
+      font-style: italic;
+      font-size: 1.2rem;
+      margin-top: 5px;
+    }
+    .company-info {
+      background: #e8eaf6;
+      padding: 20px;
+      border-bottom: 2px solid #1a237e;
+      line-height: 1.6;
+    }
+    .product-section {
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .product-section h2 {
+      text-align: center;
+      color: #1a237e;
+    }
+    .product-details {
+      background: #fff;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      margin-top: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background: #f0f0f0;
+    }
+    footer {
+      background: #1a237e;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Make sure JVPL LOGO WITH TM.jpg is in the same folder as this HTML file -->
+    <img src="JVPL LOGO WITH TM.jpg" alt="JVPL Spices Logo">
+    <h1>JVPL Spices</h1>
+    <div class="slogan">Spice up your Dish</div>
+  </header>
+
+  <section class="company-info">
+    <h2>Company Information</h2>
+    <p><strong>Company Name:</strong> Jeehaan Vidamzas Private Limited</p>
+    <p><strong>Address:</strong> R/o H.No.2-47, Sapthagiri Colony, Narepalle, Ghatkesar, Rangareddy, Telangana, India, 500088</p>
+    <p><strong>CIN:</strong> U46305TS2024PTC192352</p>
+    <p><strong>GST Number:</strong> 36AAGCJ6821M1Z6</p>
+    <p><strong>FSSAI License:</strong> 13625999000617</p>
+    <p><strong>Email:</strong> Jeehaanvidamzas@gmail.com</p>
+  </section>
+
+  <section class="product-section">
+    <h2>Product – Cumin Seeds</h2>
+    <div class="product-details">
+      <h3>About the Product</h3>
+      <p>Cumin seeds (Cuminum cyminum) are an essential spice known for their distinctive aroma and warm, earthy flavor. Used widely in Indian, Middle Eastern, and global cuisines, cumin also offers several health benefits including aiding digestion, boosting immunity, and providing antioxidants.</p>
+
+      <h3>Nutritional Value (per 100g)</h3>
+      <table>
+        <tr><th>Nutrient</th><th>Amount</th></tr>
+        <tr><td>Energy</td><td>375 kcal</td></tr>
+        <tr><td>Carbohydrates</td><td>44.2 g</td></tr>
+        <tr><td>Protein</td><td>17.8 g</td></tr>
+        <tr><td>Total Fat</td><td>22.3 g</td></tr>
+        <tr><td>Dietary Fiber</td><td>10.5 g</td></tr>
+        <tr><td>Calcium</td><td>931 mg</td></tr>
+        <tr><td>Iron</td><td>66.4 mg</td></tr>
+        <tr><td>Magnesium</td><td>366 mg</td></tr>
+        <tr><td>Phosphorus</td><td>499 mg</td></tr>
+        <tr><td>Potassium</td><td>1788 mg</td></tr>
+        <tr><td>Vitamin A</td><td>1270 IU</td></tr>
+        <tr><td>Vitamin C</td><td>7.7 mg</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 Jeehaan Vidamzas Private Limited – JVPL Spices. All rights reserved.
+  </footer>
+</body>
+</html>
